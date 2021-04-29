@@ -43,7 +43,7 @@ HTTPHost = "0.0.0.0"
 HTTPPort = 8545
 HTTPCors = ["*"]
 HTTPVirtualHosts = ["*"]
-HTTPModules = ['personal','eth', 'net', 'web3']
+HTTPModules = ['eth', 'net', 'web3']
 
 WSHost = "0.0.0.0"
 WSPort = 8546
